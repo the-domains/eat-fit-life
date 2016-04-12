@@ -1,0 +1,28 @@
+name: Eat-Fit-Life
+favicon: null
+layout_spectrum: 0.1957046608440578
+typography_spectrum: 0.45302807982079685
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.9717734961304814
+  lightness: 0.16009447677060962
+  saturation: 0.5089703293051571
+  rhythmicContrast: 0.5371219168882817
+purpose: []
