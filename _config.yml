@@ -1,16 +1,16 @@
 title: Health Fitness Lifestyle
 cta:
+  domain: null
   version: null
   bucket: null
-  domain: null
 layout_spectrum: 1
 favicon: null
 name: Eat-Fit-Life
 purpose: []
 analytics:
-  twitter: null
-  google: null
   facebook: null
+  google: null
+  twitter: null
 opengraph:
   image: null
   type: null
@@ -29,7 +29,7 @@ collections:
       path: '/:title/'
 color:
   brandStrength: 1
-  lightness: 1
+  lightness: 0.593617
   saturation: 1
   rhythmicContrast: 1
   brandColors:
