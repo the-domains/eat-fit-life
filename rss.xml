@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Health Fitness Lifestyle]]></title>
+        <description><![CDATA[Health Fitness Lifestyle]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 16 Apr 2016 08:07:54 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Classes]]></title>
+            <description><![CDATA[<article><h1>Classes</h1><p>Corporate Nutrition Classes</p></article>]]></description>
+            <link>undefinedclasses/index.html</link>
+            <guid isPermaLink="false">b9d367f2-5acf-4839-9545-b9a54966d977</guid>
+            <pubDate>Sat, 16 Apr 2016 08:07:47 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
