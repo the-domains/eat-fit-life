@@ -1,20 +1,8 @@
-title: Health Fitness Lifestyle
-cta:
-  domain: null
-  version: null
-  bucket: null
-layout_spectrum: 1
-favicon: null
 name: Eat-Fit-Life
-purpose: []
-analytics:
-  facebook: null
-  google: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+favicon: null
+layout_spectrum: 1
+typography_spectrum: 0.7212766
+title: Health Fitness Lifestyle
 collections:
   - index:
       navigable: true
@@ -27,15 +15,27 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  brandStrength: 1
-  lightness: 0.7468085
+  brandColors:
+    - '#ffffff'
+    - '#3a3c63'
+    - '#d7c2cb'
+    - '#e2967e'
+    - '#12101d'
+  brandStrength: 0.5
+  lightness: 0.5
   saturation: 1
   rhythmicContrast: 1
-  brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
-typography_spectrum: 0.7212766
+purpose: []
